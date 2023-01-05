@@ -1,1 +1,1 @@
-# Tyhmeimg
+# Thymeimg
